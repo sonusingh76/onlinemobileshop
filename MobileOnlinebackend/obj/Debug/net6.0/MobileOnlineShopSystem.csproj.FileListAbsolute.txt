@@ -1,0 +1,434 @@
+C:\Users\sonus\source\repos\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\sonus\source\repos\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\appsettings.json
+C:\Users\sonus\source\repos\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\MobileOnlineShopSystem.exe
+C:\Users\sonus\source\repos\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\MobileOnlineShopSystem.deps.json
+C:\Users\sonus\source\repos\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\MobileOnlineShopSystem.runtimeconfig.json
+C:\Users\sonus\source\repos\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\MobileOnlineShopSystem.dll
+C:\Users\sonus\source\repos\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\MobileOnlineShopSystem.pdb
+C:\Users\sonus\source\repos\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\sonus\source\repos\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sonus\source\repos\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\sonus\source\repos\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\sonus\source\repos\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sonus\source\repos\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sonus\source\repos\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\sonus\source\repos\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sonus\source\repos\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\sonus\source\repos\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\sonus\source\repos\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\sonus\source\repos\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sonus\source\repos\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sonus\source\repos\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sonus\source\repos\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\sonus\source\repos\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sonus\source\repos\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sonus\source\repos\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sonus\source\repos\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sonus\source\repos\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\MobileOnlineShopSystem.csproj.AssemblyReference.cache
+C:\Users\sonus\source\repos\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\MobileOnlineShopSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sonus\source\repos\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\MobileOnlineShopSystem.AssemblyInfoInputs.cache
+C:\Users\sonus\source\repos\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\MobileOnlineShopSystem.AssemblyInfo.cs
+C:\Users\sonus\source\repos\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\MobileOnlineShopSystem.csproj.CoreCompileInputs.cache
+C:\Users\sonus\source\repos\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\MobileOnlineShopSystem.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sonus\source\repos\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\MobileOnlineShopSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sonus\source\repos\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\staticwebassets\msbuild.MobileOnlineShopSystem.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sonus\source\repos\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\staticwebassets\msbuild.build.MobileOnlineShopSystem.props
+C:\Users\sonus\source\repos\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MobileOnlineShopSystem.props
+C:\Users\sonus\source\repos\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MobileOnlineShopSystem.props
+C:\Users\sonus\source\repos\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\sonus\source\repos\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\sonus\source\repos\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\sonus\source\repos\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\scopedcss\bundle\MobileOnlineShopSystem.styles.css
+C:\Users\sonus\source\repos\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\MobileOnlineShopSystem.csproj.CopyComplete
+C:\Users\sonus\source\repos\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\MobileOnlineShopSystem.dll
+C:\Users\sonus\source\repos\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\refint\MobileOnlineShopSystem.dll
+C:\Users\sonus\source\repos\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\MobileOnlineShopSystem.pdb
+C:\Users\sonus\source\repos\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\MobileOnlineShopSystem.genruntimeconfig.cache
+C:\Users\sonus\source\repos\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\ref\MobileOnlineShopSystem.dll
+C:\Users\sonus\source\repos\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\sonus\source\repos\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\sonus\source\repos\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Humanizer.dll
+C:\Users\sonus\source\repos\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sonus\source\repos\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\sonus\source\repos\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sonus\source\repos\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sonus\source\repos\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sonus\source\repos\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\sonus\source\repos\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\sonus\source\repos\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\sonus\source\repos\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\sonus\source\repos\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sonus\source\repos\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sonus\source\repos\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\sonus\source\repos\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sonus\source\repos\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\sonus\source\repos\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\sonus\source\repos\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\sonus\source\repos\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\sonus\source\repos\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\sonus\source\repos\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\sonus\source\repos\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sonus\source\repos\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\sonus\source\repos\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\sonus\source\repos\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\sonus\source\repos\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\sonus\source\repos\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sonus\source\repos\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sonus\source\repos\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sonus\source\repos\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sonus\source\repos\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sonus\source\repos\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sonus\source\repos\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sonus\source\repos\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\sonus\source\repos\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\sonus\source\repos\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\sonus\source\repos\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sonus\source\repos\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\sonus\source\repos\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\2266450\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\2266450\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\appsettings.json
+C:\Users\2266450\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\MobileOnlineShopSystem.exe
+C:\Users\2266450\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\MobileOnlineShopSystem.deps.json
+C:\Users\2266450\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\MobileOnlineShopSystem.runtimeconfig.json
+C:\Users\2266450\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\MobileOnlineShopSystem.dll
+C:\Users\2266450\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\MobileOnlineShopSystem.pdb
+C:\Users\2266450\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\2266450\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\2266450\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Humanizer.dll
+C:\Users\2266450\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\2266450\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\2266450\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\2266450\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\2266450\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\2266450\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\2266450\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\2266450\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\2266450\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\2266450\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\2266450\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\2266450\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\2266450\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\2266450\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\2266450\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\2266450\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\2266450\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\2266450\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\2266450\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\2266450\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\2266450\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\2266450\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\2266450\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\2266450\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\2266450\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\2266450\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\2266450\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\2266450\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\2266450\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\2266450\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\2266450\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\2266450\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\2266450\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\2266450\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\2266450\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\2266450\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\2266450\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\2266450\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\2266450\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\2266450\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\2266450\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\2266450\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\2266450\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\2266450\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\2266450\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\2266450\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\2266450\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\2266450\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\2266450\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\2266450\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\2266450\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\2266450\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\2266450\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\2266450\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\2266450\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\2266450\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\2266450\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\MobileOnlineShopSystem.csproj.AssemblyReference.cache
+C:\Users\2266450\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\MobileOnlineShopSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2266450\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\MobileOnlineShopSystem.AssemblyInfoInputs.cache
+C:\Users\2266450\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\MobileOnlineShopSystem.AssemblyInfo.cs
+C:\Users\2266450\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\MobileOnlineShopSystem.csproj.CoreCompileInputs.cache
+C:\Users\2266450\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\MobileOnlineShopSystem.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\2266450\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\MobileOnlineShopSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\2266450\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\staticwebassets\msbuild.MobileOnlineShopSystem.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\2266450\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\staticwebassets\msbuild.build.MobileOnlineShopSystem.props
+C:\Users\2266450\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MobileOnlineShopSystem.props
+C:\Users\2266450\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MobileOnlineShopSystem.props
+C:\Users\2266450\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\2266450\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\2266450\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\2266450\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\scopedcss\bundle\MobileOnlineShopSystem.styles.css
+C:\Users\2266450\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\MobileOnlineShopSystem.csproj.CopyComplete
+C:\Users\2266450\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\MobileOnlineShopSystem.dll
+C:\Users\2266450\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\refint\MobileOnlineShopSystem.dll
+C:\Users\2266450\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\MobileOnlineShopSystem.pdb
+C:\Users\2266450\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\MobileOnlineShopSystem.genruntimeconfig.cache
+C:\Users\2266450\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\ref\MobileOnlineShopSystem.dll
+C:\Users\2266450\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\sonus\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\sonus\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\appsettings.json
+C:\Users\sonus\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\MobileOnlineShopSystem.exe
+C:\Users\sonus\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\MobileOnlineShopSystem.deps.json
+C:\Users\sonus\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\MobileOnlineShopSystem.runtimeconfig.json
+C:\Users\sonus\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\MobileOnlineShopSystem.dll
+C:\Users\sonus\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\MobileOnlineShopSystem.pdb
+C:\Users\sonus\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\sonus\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\sonus\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Humanizer.dll
+C:\Users\sonus\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\sonus\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sonus\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\sonus\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\sonus\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sonus\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sonus\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sonus\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sonus\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\sonus\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\sonus\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\sonus\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sonus\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sonus\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\sonus\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\sonus\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sonus\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\sonus\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\sonus\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\sonus\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\sonus\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\sonus\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sonus\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sonus\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sonus\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sonus\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sonus\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\sonus\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\sonus\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sonus\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\sonus\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sonus\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sonus\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sonus\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\sonus\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\sonus\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\sonus\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sonus\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\sonus\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\sonus\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sonus\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\sonus\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\sonus\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\sonus\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\sonus\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sonus\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sonus\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sonus\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sonus\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sonus\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sonus\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sonus\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\sonus\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\sonus\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\sonus\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sonus\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\sonus\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\sonus\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\MobileOnlineShopSystem.csproj.AssemblyReference.cache
+C:\Users\sonus\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\MobileOnlineShopSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sonus\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\MobileOnlineShopSystem.AssemblyInfoInputs.cache
+C:\Users\sonus\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\MobileOnlineShopSystem.AssemblyInfo.cs
+C:\Users\sonus\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\MobileOnlineShopSystem.csproj.CoreCompileInputs.cache
+C:\Users\sonus\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\MobileOnlineShopSystem.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sonus\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\MobileOnlineShopSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sonus\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\staticwebassets\msbuild.MobileOnlineShopSystem.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sonus\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\staticwebassets\msbuild.build.MobileOnlineShopSystem.props
+C:\Users\sonus\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MobileOnlineShopSystem.props
+C:\Users\sonus\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MobileOnlineShopSystem.props
+C:\Users\sonus\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\sonus\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\sonus\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\sonus\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\scopedcss\bundle\MobileOnlineShopSystem.styles.css
+C:\Users\sonus\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\MobileOnlineShopSystem.csproj.CopyComplete
+C:\Users\sonus\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\MobileOnlineShopSystem.dll
+C:\Users\sonus\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\refint\MobileOnlineShopSystem.dll
+C:\Users\sonus\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\MobileOnlineShopSystem.pdb
+C:\Users\sonus\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\MobileOnlineShopSystem.genruntimeconfig.cache
+C:\Users\sonus\Desktop\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\ref\MobileOnlineShopSystem.dll
+D:\Youtube Channel\Student Projects\MobileShop Sonu Singh\MobileOnlineShopSystemv2\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\appsettings.Development.json
+D:\Youtube Channel\Student Projects\MobileShop Sonu Singh\MobileOnlineShopSystemv2\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\appsettings.json
+D:\Youtube Channel\Student Projects\MobileShop Sonu Singh\MobileOnlineShopSystemv2\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\MobileOnlineShopSystem.exe
+D:\Youtube Channel\Student Projects\MobileShop Sonu Singh\MobileOnlineShopSystemv2\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\MobileOnlineShopSystem.deps.json
+D:\Youtube Channel\Student Projects\MobileShop Sonu Singh\MobileOnlineShopSystemv2\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\MobileOnlineShopSystem.runtimeconfig.json
+D:\Youtube Channel\Student Projects\MobileShop Sonu Singh\MobileOnlineShopSystemv2\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\MobileOnlineShopSystem.dll
+D:\Youtube Channel\Student Projects\MobileShop Sonu Singh\MobileOnlineShopSystemv2\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\MobileOnlineShopSystem.pdb
+D:\Youtube Channel\Student Projects\MobileShop Sonu Singh\MobileOnlineShopSystemv2\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Azure.Core.dll
+D:\Youtube Channel\Student Projects\MobileShop Sonu Singh\MobileOnlineShopSystemv2\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Azure.Identity.dll
+D:\Youtube Channel\Student Projects\MobileShop Sonu Singh\MobileOnlineShopSystemv2\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Humanizer.dll
+D:\Youtube Channel\Student Projects\MobileShop Sonu Singh\MobileOnlineShopSystemv2\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Youtube Channel\Student Projects\MobileShop Sonu Singh\MobileOnlineShopSystemv2\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Youtube Channel\Student Projects\MobileShop Sonu Singh\MobileOnlineShopSystemv2\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Youtube Channel\Student Projects\MobileShop Sonu Singh\MobileOnlineShopSystemv2\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Youtube Channel\Student Projects\MobileShop Sonu Singh\MobileOnlineShopSystemv2\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Youtube Channel\Student Projects\MobileShop Sonu Singh\MobileOnlineShopSystemv2\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Youtube Channel\Student Projects\MobileShop Sonu Singh\MobileOnlineShopSystemv2\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Youtube Channel\Student Projects\MobileShop Sonu Singh\MobileOnlineShopSystemv2\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Youtube Channel\Student Projects\MobileShop Sonu Singh\MobileOnlineShopSystemv2\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Youtube Channel\Student Projects\MobileShop Sonu Singh\MobileOnlineShopSystemv2\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Youtube Channel\Student Projects\MobileShop Sonu Singh\MobileOnlineShopSystemv2\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Youtube Channel\Student Projects\MobileShop Sonu Singh\MobileOnlineShopSystemv2\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Youtube Channel\Student Projects\MobileShop Sonu Singh\MobileOnlineShopSystemv2\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Youtube Channel\Student Projects\MobileShop Sonu Singh\MobileOnlineShopSystemv2\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Youtube Channel\Student Projects\MobileShop Sonu Singh\MobileOnlineShopSystemv2\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Youtube Channel\Student Projects\MobileShop Sonu Singh\MobileOnlineShopSystemv2\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Youtube Channel\Student Projects\MobileShop Sonu Singh\MobileOnlineShopSystemv2\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Youtube Channel\Student Projects\MobileShop Sonu Singh\MobileOnlineShopSystemv2\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Youtube Channel\Student Projects\MobileShop Sonu Singh\MobileOnlineShopSystemv2\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Youtube Channel\Student Projects\MobileShop Sonu Singh\MobileOnlineShopSystemv2\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Youtube Channel\Student Projects\MobileShop Sonu Singh\MobileOnlineShopSystemv2\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Youtube Channel\Student Projects\MobileShop Sonu Singh\MobileOnlineShopSystemv2\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Youtube Channel\Student Projects\MobileShop Sonu Singh\MobileOnlineShopSystemv2\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Youtube Channel\Student Projects\MobileShop Sonu Singh\MobileOnlineShopSystemv2\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Youtube Channel\Student Projects\MobileShop Sonu Singh\MobileOnlineShopSystemv2\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Youtube Channel\Student Projects\MobileShop Sonu Singh\MobileOnlineShopSystemv2\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Youtube Channel\Student Projects\MobileShop Sonu Singh\MobileOnlineShopSystemv2\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Youtube Channel\Student Projects\MobileShop Sonu Singh\MobileOnlineShopSystemv2\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Youtube Channel\Student Projects\MobileShop Sonu Singh\MobileOnlineShopSystemv2\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Youtube Channel\Student Projects\MobileShop Sonu Singh\MobileOnlineShopSystemv2\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Youtube Channel\Student Projects\MobileShop Sonu Singh\MobileOnlineShopSystemv2\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Youtube Channel\Student Projects\MobileShop Sonu Singh\MobileOnlineShopSystemv2\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Youtube Channel\Student Projects\MobileShop Sonu Singh\MobileOnlineShopSystemv2\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Youtube Channel\Student Projects\MobileShop Sonu Singh\MobileOnlineShopSystemv2\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\System.CodeDom.dll
+D:\Youtube Channel\Student Projects\MobileShop Sonu Singh\MobileOnlineShopSystemv2\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Youtube Channel\Student Projects\MobileShop Sonu Singh\MobileOnlineShopSystemv2\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Youtube Channel\Student Projects\MobileShop Sonu Singh\MobileOnlineShopSystemv2\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Youtube Channel\Student Projects\MobileShop Sonu Singh\MobileOnlineShopSystemv2\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Youtube Channel\Student Projects\MobileShop Sonu Singh\MobileOnlineShopSystemv2\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Youtube Channel\Student Projects\MobileShop Sonu Singh\MobileOnlineShopSystemv2\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Youtube Channel\Student Projects\MobileShop Sonu Singh\MobileOnlineShopSystemv2\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Youtube Channel\Student Projects\MobileShop Sonu Singh\MobileOnlineShopSystemv2\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Youtube Channel\Student Projects\MobileShop Sonu Singh\MobileOnlineShopSystemv2\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\System.Text.Json.dll
+D:\Youtube Channel\Student Projects\MobileShop Sonu Singh\MobileOnlineShopSystemv2\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Youtube Channel\Student Projects\MobileShop Sonu Singh\MobileOnlineShopSystemv2\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Youtube Channel\Student Projects\MobileShop Sonu Singh\MobileOnlineShopSystemv2\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Youtube Channel\Student Projects\MobileShop Sonu Singh\MobileOnlineShopSystemv2\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Youtube Channel\Student Projects\MobileShop Sonu Singh\MobileOnlineShopSystemv2\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Youtube Channel\Student Projects\MobileShop Sonu Singh\MobileOnlineShopSystemv2\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Youtube Channel\Student Projects\MobileShop Sonu Singh\MobileOnlineShopSystemv2\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Youtube Channel\Student Projects\MobileShop Sonu Singh\MobileOnlineShopSystemv2\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Youtube Channel\Student Projects\MobileShop Sonu Singh\MobileOnlineShopSystemv2\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Youtube Channel\Student Projects\MobileShop Sonu Singh\MobileOnlineShopSystemv2\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Youtube Channel\Student Projects\MobileShop Sonu Singh\MobileOnlineShopSystemv2\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Youtube Channel\Student Projects\MobileShop Sonu Singh\MobileOnlineShopSystemv2\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Youtube Channel\Student Projects\MobileShop Sonu Singh\MobileOnlineShopSystemv2\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Youtube Channel\Student Projects\MobileShop Sonu Singh\MobileOnlineShopSystemv2\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Youtube Channel\Student Projects\MobileShop Sonu Singh\MobileOnlineShopSystemv2\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\MobileOnlineShopSystem.csproj.AssemblyReference.cache
+D:\Youtube Channel\Student Projects\MobileShop Sonu Singh\MobileOnlineShopSystemv2\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\MobileOnlineShopSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Youtube Channel\Student Projects\MobileShop Sonu Singh\MobileOnlineShopSystemv2\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\MobileOnlineShopSystem.AssemblyInfoInputs.cache
+D:\Youtube Channel\Student Projects\MobileShop Sonu Singh\MobileOnlineShopSystemv2\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\MobileOnlineShopSystem.AssemblyInfo.cs
+D:\Youtube Channel\Student Projects\MobileShop Sonu Singh\MobileOnlineShopSystemv2\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\MobileOnlineShopSystem.csproj.CoreCompileInputs.cache
+D:\Youtube Channel\Student Projects\MobileShop Sonu Singh\MobileOnlineShopSystemv2\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\MobileOnlineShopSystem.MvcApplicationPartsAssemblyInfo.cs
+D:\Youtube Channel\Student Projects\MobileShop Sonu Singh\MobileOnlineShopSystemv2\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\MobileOnlineShopSystem.MvcApplicationPartsAssemblyInfo.cache
+D:\Youtube Channel\Student Projects\MobileShop Sonu Singh\MobileOnlineShopSystemv2\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\staticwebassets.build.json
+D:\Youtube Channel\Student Projects\MobileShop Sonu Singh\MobileOnlineShopSystemv2\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\staticwebassets.development.json
+D:\Youtube Channel\Student Projects\MobileShop Sonu Singh\MobileOnlineShopSystemv2\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\scopedcss\bundle\MobileOnlineShopSystem.styles.css
+D:\Youtube Channel\Student Projects\MobileShop Sonu Singh\MobileOnlineShopSystemv2\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\MobileOnlineShopSystem.csproj.CopyComplete
+D:\Youtube Channel\Student Projects\MobileShop Sonu Singh\MobileOnlineShopSystemv2\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\MobileOnlineShopSystem.dll
+D:\Youtube Channel\Student Projects\MobileShop Sonu Singh\MobileOnlineShopSystemv2\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\refint\MobileOnlineShopSystem.dll
+D:\Youtube Channel\Student Projects\MobileShop Sonu Singh\MobileOnlineShopSystemv2\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\MobileOnlineShopSystem.pdb
+D:\Youtube Channel\Student Projects\MobileShop Sonu Singh\MobileOnlineShopSystemv2\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\MobileOnlineShopSystem.genruntimeconfig.cache
+D:\Youtube Channel\Student Projects\MobileShop Sonu Singh\MobileOnlineShopSystemv2\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\ref\MobileOnlineShopSystem.dll
+C:\Users\sonus\Desktop\Project\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\sonus\Desktop\Project\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\appsettings.json
+C:\Users\sonus\Desktop\Project\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\MobileOnlineShopSystem.exe
+C:\Users\sonus\Desktop\Project\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\MobileOnlineShopSystem.deps.json
+C:\Users\sonus\Desktop\Project\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\MobileOnlineShopSystem.runtimeconfig.json
+C:\Users\sonus\Desktop\Project\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\MobileOnlineShopSystem.dll
+C:\Users\sonus\Desktop\Project\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\MobileOnlineShopSystem.pdb
+C:\Users\sonus\Desktop\Project\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\sonus\Desktop\Project\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\sonus\Desktop\Project\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Humanizer.dll
+C:\Users\sonus\Desktop\Project\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\sonus\Desktop\Project\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sonus\Desktop\Project\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\sonus\Desktop\Project\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\sonus\Desktop\Project\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sonus\Desktop\Project\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sonus\Desktop\Project\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sonus\Desktop\Project\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sonus\Desktop\Project\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\sonus\Desktop\Project\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\sonus\Desktop\Project\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\sonus\Desktop\Project\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sonus\Desktop\Project\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sonus\Desktop\Project\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\sonus\Desktop\Project\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\sonus\Desktop\Project\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sonus\Desktop\Project\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\sonus\Desktop\Project\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\sonus\Desktop\Project\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\sonus\Desktop\Project\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\sonus\Desktop\Project\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\sonus\Desktop\Project\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sonus\Desktop\Project\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sonus\Desktop\Project\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sonus\Desktop\Project\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sonus\Desktop\Project\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sonus\Desktop\Project\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\sonus\Desktop\Project\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\sonus\Desktop\Project\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sonus\Desktop\Project\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\sonus\Desktop\Project\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sonus\Desktop\Project\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sonus\Desktop\Project\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sonus\Desktop\Project\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\sonus\Desktop\Project\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\sonus\Desktop\Project\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\sonus\Desktop\Project\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sonus\Desktop\Project\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\sonus\Desktop\Project\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\sonus\Desktop\Project\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sonus\Desktop\Project\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\sonus\Desktop\Project\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\sonus\Desktop\Project\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\sonus\Desktop\Project\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\sonus\Desktop\Project\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sonus\Desktop\Project\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sonus\Desktop\Project\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sonus\Desktop\Project\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sonus\Desktop\Project\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sonus\Desktop\Project\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sonus\Desktop\Project\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sonus\Desktop\Project\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\sonus\Desktop\Project\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\sonus\Desktop\Project\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\sonus\Desktop\Project\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sonus\Desktop\Project\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\sonus\Desktop\Project\MobileOnlineShopSystem\MobileOnlineShopSystem\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\sonus\Desktop\Project\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\MobileOnlineShopSystem.csproj.AssemblyReference.cache
+C:\Users\sonus\Desktop\Project\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\MobileOnlineShopSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sonus\Desktop\Project\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\MobileOnlineShopSystem.AssemblyInfoInputs.cache
+C:\Users\sonus\Desktop\Project\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\MobileOnlineShopSystem.AssemblyInfo.cs
+C:\Users\sonus\Desktop\Project\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\MobileOnlineShopSystem.csproj.CoreCompileInputs.cache
+C:\Users\sonus\Desktop\Project\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\MobileOnlineShopSystem.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sonus\Desktop\Project\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\MobileOnlineShopSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sonus\Desktop\Project\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\staticwebassets\msbuild.MobileOnlineShopSystem.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sonus\Desktop\Project\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\staticwebassets\msbuild.build.MobileOnlineShopSystem.props
+C:\Users\sonus\Desktop\Project\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MobileOnlineShopSystem.props
+C:\Users\sonus\Desktop\Project\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MobileOnlineShopSystem.props
+C:\Users\sonus\Desktop\Project\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\sonus\Desktop\Project\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\sonus\Desktop\Project\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\sonus\Desktop\Project\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\scopedcss\bundle\MobileOnlineShopSystem.styles.css
+C:\Users\sonus\Desktop\Project\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\MobileOnlineShopSystem.csproj.CopyComplete
+C:\Users\sonus\Desktop\Project\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\MobileOnlineShopSystem.dll
+C:\Users\sonus\Desktop\Project\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\refint\MobileOnlineShopSystem.dll
+C:\Users\sonus\Desktop\Project\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\MobileOnlineShopSystem.pdb
+C:\Users\sonus\Desktop\Project\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\MobileOnlineShopSystem.genruntimeconfig.cache
+C:\Users\sonus\Desktop\Project\MobileOnlineShopSystem\MobileOnlineShopSystem\obj\Debug\net6.0\ref\MobileOnlineShopSystem.dll
